@@ -1,16 +1,21 @@
-# my_awesome_namer
+# Flutter First App
 
-A new Flutter project.
+My first Flutter application built by following the official Google Flutter Codelab.
 
-## Getting Started
+## What this app does
+- Simple Flutter UI
+- Stateful widgets
+- Basic layout and interaction
 
-This project is a starting point for a Flutter application.
+## Why I built this
+This is part of my public journey of learning app development and building real products from scratch.
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
+- Flutter
+- Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## What I learned
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Next steps
+
