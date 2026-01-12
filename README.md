@@ -15,7 +15,9 @@ This is part of my public journey of learning app development and building real 
 - Dart
 
 ## What I learned
-
+- How to set up the Flutter SDK and run the app on iOS and Android emulators
+- How to add a button and connect it to existing app logic to update the displayed word
 
 ## Next steps
+- Make the user interface prettier.
 
