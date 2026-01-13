@@ -13,4 +13,4 @@
 – Improve UI, styling, and accessibility
 - Refactored UI with a custom BigCard widget, applied theming, improved text styling, centered layout, and added accessibility support for screen readers
 Demo: [Watch video](videos/day3-make-app-prettier.mov)
-- PR: 
+- PR: https://github.com/psreddyio/my_awesome_namer/pull/2
